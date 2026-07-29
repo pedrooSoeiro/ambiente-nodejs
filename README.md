@@ -1,4 +1,4 @@
-# Configuração do Ambiente Node.js + TypeScript
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=180&section=header&text=Configuração+do+Ambiente+Node.js+TypeScript&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 Este repositório contém o passo a passo e o código inicial para a configuração de um ambiente de desenvolvimento **Node.js** com **TypeScript**, finalizado com um teste prático utilizando `console.log`.
 
@@ -29,3 +29,4 @@ Crie uma pasta para o projeto e inicialize o `package.json`:
 mkdir meu-projeto-typescript
 cd meu-projeto-typescript
 npm init -y
+
