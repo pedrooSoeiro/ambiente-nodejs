@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nome": "Carros",
+        "descricao": "Relampago McQueen e seus amigos em uma corrida emocionante.",
+        "duracao": "116 minutos"
+    },
+    {
+        "id": 2,
+        "nome": "Spider-Man in the spider-verse",
+        "descricao": "Miles Morales, um adolescente do Brooklyn, assume o manto do Homem-Aranha e se junta a outros Homens-Aranha de diferentes dimensões para salvar o multiverso.",
+        "duracao": "117 minutos" 
+    },
+    {
+        "id": 3,
+        "nome": "Turbo",
+        "descricao": "Um caracol de jardim chamado Turbo sonha em se tornar o caracol mais rápido do mundo e embarca em uma jornada para realizar seu sonho.",
+        "duracao": "96 minutos" 
+    },
+    {
+        "id": 4,
+        "nome": "Wall-E",
+        "descricao": "Um robo chamado Wall-E é deixado sozinho na Terra para limpar a poluição e acaba embarcando em uma aventura espacial.",
+        "duracao": "98 minutos" 
+    },
+    {
+        "id": 5,
+        "nome": "Up - Altas Aventuras",
+        "descricao": "Um idoso chamado Carl Fredricksen embarca em uma aventura para realizar o sonho de sua falecida esposa, levando sua casa para a América do Sul com a ajuda de balões.",
+        "duracao": "96 minutos" 
+    }
+    
+]

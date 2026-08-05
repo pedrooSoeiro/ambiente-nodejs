@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nome": "Lirio",
+        "cor": "Branca",
+        "origem": "Europa",
+        "significado": "Pureza e inocência"
+    },
+    {
+        "id": 2,
+        "nome": "Girassol",
+        "cor": "Amarela",
+        "origem": "América do Norte",
+        "significado": "Felicidade e lealdade"
+    },
+    {
+        "id": 3,
+        "nome": "Tulipa",
+        "cor": "Vermelha",
+        "origem": "Turquia",
+        "significado": "Amor verdadeiro e paixão"
+    },
+    {
+        "id": 4,
+        "nome": "Margarida",
+        "cor": "Branca",
+        "origem": "Europa",
+        "significado": "Inocência e pureza"
+    },
+    {
+        "id": 5,
+        "nome": "Rosa",
+        "cor": "Vermelha",
+        "origem": "Europa",
+        "significado": "Amor e paixão"
+    }
+    
+]

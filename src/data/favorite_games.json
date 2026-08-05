@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nome": "Minecraft",
+        "descricao": "Explore um mundo infinito e construa suas próprias criações.",
+        "multiplayer": true,
+        "valor": 29.99
+    },
+    {
+        "id": 2,
+        "nome": "Valorant",
+        "descricao": "Jogo de tiro em equipe com personagens únicos e habilidades especiais.",
+        "multiplayer": true,
+        "valor": 0.00
+    },
+    {
+        "id": 3,
+        "nome": "Fortnite",
+        "descricao": "Jogo battle royale com construção e destruição de estruturas.",
+        "multiplayer": true,
+        "valor": 0.00
+    },
+    {
+        "id": 4,
+        "nome": "Stardew Valley",
+        "descricao": "Jogo de simulação de agricultura em um mundo rural.",
+        "multiplayer": true,
+        "valor": 14.99
+    },
+    {
+        "id": 5,
+        "nome": "Red Dead Redemption 2",
+        "descricao": "Jogo de ação e aventura em mundo aberto ambientado no Velho Oeste.",
+        "multiplayer": false,
+        "valor": 59.99
+    }
+    
+]

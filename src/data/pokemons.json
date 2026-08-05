@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Rayquaza",
+        "tipo": ["voador", "dragão"],
+        "bioma": "Céu",
+        "lendario": true
+    },
+    {
+        "id": 2,
+        "nome": "Pikachu",
+        "tipo": "Elétrico",
+        "bioma": "Floresta",
+        "lendario": false
+    },
+    {
+        "id": 3,
+        "nome": "Charizard",
+        "tipo": ["Fogo", "Voador"],
+        "bioma": "Montanha",
+        "lendario": false
+    },
+    {
+        "id": 4,
+        "nome": "Mewtwo",
+        "tipo": "Psíquico",
+        "bioma": "Laboratório",
+        "lendario": true
+    },
+    {
+        "id": 5,
+        "nome": "Bulbasaur",
+        "tipo": ["Grama", "Veneno"],
+        "bioma": "Floresta",
+        "lendario": false
+    }
+]

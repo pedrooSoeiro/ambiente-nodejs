@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nome": "Espada de Diamante",
+        "utilidade": "Atacar inimigos e colher recursos.",
+        "matéria_prima": "Diamante",
+        "no_jogo_atualmente": true
+    },
+    {
+        "id": 2,
+        "nome": "âmera",
+        "utilidade": "Tirar fotos de paisagens e criaturas no jogo.",
+        "matéria_prima": "Vidro e Redstone",
+        "no_jogo_atualmente": false
+    },
+    {
+        "id": 3,
+        "nome": "Bloco de Redstone",
+        "utilidade": "Usado para criar circuitos elétricos e mecanismos no jogo.",
+        "matéria_prima": "Redstone",
+        "no_jogo_atualmente": true
+    },
+    {
+        "id": 4,
+        "nome": "Cabeça de Creeper",
+        "utilidade": "Decoração e troféu no jogo.",
+        "matéria_prima": "Cabeça de Creeper",
+        "no_jogo_atualmente": true
+    }
+
+]
